@@ -5,7 +5,7 @@ target/
 .kotlin
 
 ### IntelliJ IDEA ###
-.idea/
+
 *.iws
 *.iml
 *.ipr
@@ -32,6 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
-### Arquivos de conex„o ###
+### Mac OS ###
+.DS_Store
+
+### Arquivos de conex√£o ###
 .env
 .env.*
